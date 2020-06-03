@@ -1,0 +1,152 @@
+.navbar {
+  background-color: #ffffff;
+}
+
+body {
+  font-family: "Roboto";
+  font-size: 18px;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+  color: #3d66e6;
+}
+
+h1 {
+  font-size: 26px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 22px;
+}
+h4 {
+  font-size: 20px;
+}
+#cover-img {
+  width: 700px;
+  height: 900px;
+}
+.courses-img {
+  width: 150px;
+}
+
+.generalBtns,
+.greenBtns {
+  width: 100px;
+  height: 2.3em;
+  font-size: 1.2em;
+  color: darkblue;
+  border-radius: 10px;
+  border: none;
+}
+
+#loginBtn1 {
+  background-color: #ffffff;
+  font-weight: 500;
+  color: #3d66e6;
+}
+.greenBtns {
+  background-color: #3de6bc;
+  /* border: 1px solid #3de6bc; */
+}
+
+#logo {
+  margin: 10px;
+}
+
+#main-navbar {
+  -webkit-box-shadow: 10px 1px 7px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 1px 7px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 1px 7px 0px rgba(0, 0, 0, 0.75);
+}
+
+#rightCol {
+  margin-top: 20vh;
+}
+
+#blue-banner {
+  width: 522px;
+  height: 240px;
+  background-color: #3d66e6;
+  position: absolute;
+  left: 15%;
+  top: 15%;
+}
+
+#blue-banner > h1 {
+  color: white;
+  font-size: 60px;
+  text-align: left;
+  padding: 4%;
+}
+
+/* form */
+#login-form > input,
+#signup-list > input {
+  width: 290px;
+  height: 45px;
+}
+
+#login-form label {
+  margin: 10px;
+}
+#login-icons > li > img {
+  width: 30px;
+  margin: 5px;
+}
+#list-box > ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: left;
+}
+
+#list-box > ul > li {
+  display: inline;
+}
+
+#loginBtn {
+  background-color: #3d66e6;
+  color: white;
+  font-size: 1.2em;
+  border-radius: 5px;
+  margin: 10px 0px;
+  border: none;
+  font-weight: 500;
+}
+
+/* signup page */
+#cover2 {
+  width: 35vw;
+  height: 50vh;
+}
+
+.first-row {
+  margin-top: 14vh;
+}
+
+#signup-form > ul {
+  list-style-type: none;
+}
+
+.signUpBtn {
+  width: 290px;
+  height: 45px;
+  font-size: 1.2em;
+  margin: 20px 0px;
+  border-radius: 5px;
+  border: none;
+  background-color: #3de6bc;
+  color: white;
+  font-weight: 500;
+}
+
+.otherInfoBox {
+  margin-left: 40px;
+}

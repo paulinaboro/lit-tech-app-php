@@ -1,0 +1,42 @@
+[
+  {
+    "course_id": "1",
+    "course_name": "Relational Database Design&\r\nEntity Relationship Modelling\r\n",
+    "course_genre": "Databases",
+    "total_number_of_lessons": "4",
+    "short_description": "The entity is similar to object programming. What do you need \r\nto start with when creating a databa",
+    "img_path": "database1.png"
+  },
+  {
+    "course_id": "2",
+    "course_name": "Design",
+    "course_genre": "Design",
+    "total_number_of_lessons": "3",
+    "short_description": "This is the course about Deign User Interfaces.",
+    "img_path": "../AllCourses/img/database1.png"
+  },
+  {
+    "course_id": "3",
+    "course_name": "Learn HTML",
+    "course_genre": "HTML",
+    "total_number_of_lessons": "3",
+    "short_description": "On this course you will learn HTML.",
+    "img_path": ""
+  },
+  {
+    "course_id": "4",
+    "course_name": "Styling in CSS",
+    "course_genre": "CSS",
+    "total_number_of_lessons": "2",
+    "short_description": "Learn how to style websites in CSS.",
+    "img_path": ""
+  },
+  {
+    "course_id": "5",
+    "course_name": "Game Development",
+    "course_genre": "Game Dev",
+    "total_number_of_lessons": "3",
+    "short_description": "On this course, you will learn the basics of the game development.",
+    "img_path": ""
+  }
+]
